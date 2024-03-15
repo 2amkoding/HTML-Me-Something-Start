@@ -1,1 +1,20 @@
-/* Write your CSS here! */
+body {
+    font-family: "helvetica", sans-serif;
+    margin: 8px;
+    display: block;
+    padding: 25px
+    
+}
+
+#mainHeading {
+    font-family: "helvetica", sans-serif;
+    color: red;
+}
+
+#testp {
+    font-family: "helvetica", sans-serif;
+}
+
+.funParagraph {
+    font-family: "helvetica", sans-serif;
+}   color: green;
